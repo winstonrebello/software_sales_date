@@ -34,6 +34,9 @@ Data Visualizations
 
 To illustrate sales trends, distribution across categories, and notable correlations, we have used a variety of charts and visualizations in Power BI.
 
+Power BI Dashboard link: 
+https://app.powerbi.com/groups/me/reports/2fe5af0f-a6b8-4a58-b13a-c941b63837c9/ReportSection?experience=power-bi
+
 ![image](https://github.com/winstonrebello/software_sales_date/assets/63299212/799d3dcc-5639-424e-9d03-fd14cd043a3b)
 
 --------------------------------------------------------------------------------------------------
